@@ -28,7 +28,7 @@ p {
     max-width: 300px;
     border-radius: 20px;
     background-color: hsl(0, 0%, 100%);
-    box-shadow: 0 10px 10px hsl(220, 15%, 55%);
+    box-shadow: 0 10px 10px hsl(220, 15%, 75%);
 }
 
 img {
